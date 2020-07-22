@@ -7,7 +7,7 @@ l2 = ['A', 'T', 'G', 'C']
 def mer(l1, l2, n) :
     l_tmp = []
     if n == 1 :
-        return l2          # l2 and l_tmp - jal ssu nun gae hak-sim.
+        return l2                    # l2 and l_tmp - jal ssu nun gae hak-sim.
     else :
         for b1 in l1 :
             for b2 in l2 :
